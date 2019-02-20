@@ -1,2 +1,2 @@
 # Programming
-All about programimg.
+My first repo
